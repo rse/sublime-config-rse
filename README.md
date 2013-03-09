@@ -1,9 +1,9 @@
 
-Sublime Text Settings RSE
-=========================
+Sublime Text Configuration RSE
+==============================
 
-These are Ralf S. Engelschall (RSE)'s settings for the Sublime Text editor (http://www.sublimetext.com/).
-First install...
+These are Ralf S. Engelschall (RSE)'s settings for the Sublime Text
+editor (http://www.sublimetext.com/). First install...
  
 1. Package Control (Sublime Extension)
    http://wbond.net/sublime_packages/package_control/
