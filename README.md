@@ -2,11 +2,20 @@
 Sublime Text 2 Settings RSE
 ===========================
 
-These are Ralf S. Engelschall (RSE)'s settings for the Sublime Text
-2 editor. Use this after installing first Package Control
-(see http://wbond.net/sublime_packages/package_control/installation)
-and then the following Sublime Text 2 packages via Package Control
-(press Cmd+Shift+P, enter "install"+RETURN and select packages):
+These are Ralf S. Engelschall (RSE)'s settings for the Sublime Text 2 editor.
+First install...
+ 
+1. Package Control (Sublime Extension)
+   http://wbond.net/sublime\_packages/package\_control/
+   http://wbond.net/sublime\_packages/package\_control/installation
+
+2. DejaVu Sans Mono (Custom Font)
+   http://dejavu-fonts.org/wiki/Main\_Page
+   http://dejavu-fonts.org/wiki/Download
+
+...and then use Package Control to install the following Sublime Text
+2 packages (press Cmd+Shift+P on Mac OS X, enter "install"+RETURN and
+select packages):
 
 - "Theme - Soda"
 - "Color Scheme - RSE"
@@ -21,10 +30,13 @@ and then the following Sublime Text 2 packages via Package Control
 - "Git"
 - "SVN"
 
+Finally open "Preferences > Settings - User" and "Preferences > Key
+Bindings - User" and paste the content of the two provided files.
+
 License
 -------
 
-Copyright (c) 2012-2013 Ralf S. Engelschall <rse@engelschall.com>
+Copyright &copy; 2012-2013 Ralf S. Engelschall (rse@engelschall.com)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
