@@ -1,0 +1,16 @@
+{
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Color Scheme RSE/RSE.tmTheme",
+    "font_face": "DejaVu Sans Mono",
+    "font_size": 13.1,
+    "highlight_line": false,
+    "highlight_modified_tabs": true,
+    "line_padding_bottom": -2,
+    "line_padding_top": 0,
+    "rulers": [ 120 ],
+    "save_on_focus_lost": false,
+    "theme": "Soda Light.sublime-theme",
+    "soda_classic_tabs": true,
+    "trailing_spaces_highlight_color": "invalid",
+    "vintage_start_in_command_mode": true
+}
