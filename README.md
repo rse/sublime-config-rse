@@ -9,7 +9,7 @@ First install...
    http://wbond.net/sublime_packages/package_control/
 
 2. DejaVu Sans Mono (Custom Font)
-   http://dejavu-fonts.org/wiki/Main\_Page
+   http://dejavu-fonts.org/wiki/Main_Page
 
 ...and then use Package Control to install the following Sublime Text
 2 packages (press Cmd+Shift+P on Mac OS X, enter "install"+RETURN and
